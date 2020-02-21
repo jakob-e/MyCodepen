@@ -1,4 +1,4 @@
-name: FB Deploy
+name: deploy_to_firebase_hosting
 
 on:
   push:
