@@ -44,5 +44,8 @@
     "pubsub": {
       "port": 8085
     }
+  },
+  "dependencies": {
+    "firebase": "^7.9.0"
   }
 }
