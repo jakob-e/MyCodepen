@@ -3,7 +3,7 @@ name: deploy_to_firebase_hosting
 on:
   push:
     tags:
-      - master
+      - release-production-*
 
 jobs:
   deploy_to_firebase_hosting:
