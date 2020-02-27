@@ -1,8 +1,8 @@
+name: SCSS
 on:
   push:
     branches:
-      - src-pages
-
+    - master
 
 jobs:
   build_css:
